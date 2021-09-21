@@ -1,0 +1,32 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "{{EntryTitle}}",
+      "description": " **Free Game:** \n{{EntryTitle}}\n\n <{{EntryUrl}}>",
+      "url": "{{EntryUrl}}",
+      "color": 10876084,
+      "fields": [
+        {
+          "name": "Link:",
+          "value": "<{{EntryUrl}}>"
+        },
+        {
+          "name": "Subreddit: r/GameDeals",
+          "value": "Submitted By: {{EntryAuthor}}"
+        }
+      ],
+      "author": {
+        "name": "Free Games from Reddit",
+        "url": "https://reddit.com/r/GameDealsFree",
+        "icon_url": "https://www.reddit.com/favicon.ico"
+      },
+      "footer": {
+        "text": "Posted on r/GameDeals at: {{EntryPublished}}",
+        "icon_url": "https://www.reddit.com/favicon.ico"
+      }
+    }
+  ],
+  "username": "Free Games from r/GameDeals",
+  "avatar_url": "https://www.reddit.com/favicon.ico"
+}

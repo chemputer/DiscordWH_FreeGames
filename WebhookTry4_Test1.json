@@ -1,0 +1,30 @@
+{
+    "content": "Free Game: [XBOX] Bundle: Minion Masters base game + Mordar’s Malediction DLC (FREE/100% OFF)\n <https://www.reddit.com/r/GameDeals/comments/pskke9/xbox_bundle_minion_masters_base_game_mordars/>>>>",
+    "embed": {
+      "title": "Game Title: {{EntryTitle}}",
+      "url": "<https://www.reddit.com/r/GameDeals/comments/pskke9/xbox_bundle_minion_masters_base_game_mordars/>",
+      "color": 10876084,
+      "footer": {
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "text": "Posted on r/GameDeals at: {{EntryPublished}}"
+      },
+      "author": {
+        "name": "IFTTT GameDeals Free",
+        "url": "https://reddit.com/r/GameDealsFree",
+        "icon_url": "https://www.reddit.com/favicon.ico"
+      },
+      "fields": [
+        {
+          "name": "Link:",
+          "value": "<https://www.reddit.com/r/GameDeals/comments/pskke9/xbox_bundle_minion_masters_base_game_mordars/>",
+          "inline": false
+        },
+        {
+          "name": "Subreddit: r/GameDeals",
+          "value": "Submitted By: /u/PabloChocobar_",
+          "inline": false
+        }
+  
+      ]
+    }
+  }

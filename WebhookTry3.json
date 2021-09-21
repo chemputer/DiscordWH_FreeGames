@@ -1,0 +1,26 @@
+{
+    "content": " <<<Free Game: {{EntryTitle}}\n <{{EntryUrl}}>>>>",
+    "embed": {
+      "title": "{{EntryTitle}}",
+      "url": "{{EntryUrl}}",
+      "color": 10876084,
+      "timestamp": "{{EntryPublished}}",
+      "footer": {
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "text": "Posted on r/GameDeals at: <<<{{EntryPublished}}>>>"
+      },
+      "author": {
+        "name": "IFTTT GameDeals Free",
+        "url": "https://reddit.com/r/GameDealsFree",
+        "icon_url": "https://www.reddit.com/favicon.ico"
+      },
+      "fields": [
+        {
+          "name": "Subreddit",
+          "value": "GameDealsFree",
+          "inline": true
+        }
+  
+      ]
+    }
+  }
